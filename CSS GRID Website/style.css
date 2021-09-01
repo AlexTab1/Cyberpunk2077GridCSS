@@ -236,5 +236,23 @@ footer {
       'showcase'
       'top-box-a'
       'top-box-b';
+      margin-right: 3rem;
+
+  }
+  .boxes {
+    margin-right: 3rem;
+
+  }
+
+  .main-nav {
+    margin-right: 3rem;
+
+  }
+  .portfolio {
+    margin-right: 3rem;
+  }
+  .info {
+    margin-right: 3rem;
+
   }
 }
